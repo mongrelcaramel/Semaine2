@@ -5,6 +5,6 @@
     <ol>
       <li> <a href="https://www.codecademy.com/fr/users/mongrelcaramel/achievements"> Exercice 1: Mes badges Codecademy</a> </li>
       <li> Exercice 2 : Voir ci-dessus </li>
-      <li> <a href=""> Exercice 3 : CV en ligne html</a> </li>
+      <li> <a href="https://github.com/mongrelcaramel/CV/blob/master/README.md"> Exercice 3 : CV en ligne html</a> </li>
     </ol>
   </body>
